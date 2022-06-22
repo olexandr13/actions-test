@@ -2,5 +2,5 @@ name: github-actions-test
 on: workflow_dispatch
 jobs:
   job1:
-  job2:
-  job3:
+    steps:
+      - run: pwd
