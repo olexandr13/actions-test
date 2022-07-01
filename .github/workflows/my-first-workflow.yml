@@ -9,4 +9,4 @@ jobs:
         name: "Print current directory"
 
     # step 2
-      - run: echo "Hello World. This is my first CI workflow"
+      - run: echo "Hello World. This is my first CI workflow

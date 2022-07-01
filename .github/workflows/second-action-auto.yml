@@ -1,8 +1,0 @@
-name: github-actions-test
-on: push
-jobs:
-  job1:
-    runs-on: ubuntu-latest
-    steps:
-      - run: pwd
-      - run: echo "Hello World. This is my first CI workflow"
