@@ -1,4 +1,4 @@
-name: github-actions-test
+name: first-workflow
 on: [push]
 jobs:
   job1:

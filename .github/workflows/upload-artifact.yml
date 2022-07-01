@@ -1,4 +1,4 @@
-name: github-actions-test
+name: upload art
 on: [push]
 jobs:
   job1:
